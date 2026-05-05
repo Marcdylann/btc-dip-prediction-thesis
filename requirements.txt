@@ -1,0 +1,11 @@
+yfinance==0.2.54
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+lightgbm==4.5.0
+tensorflow==2.17.0
+streamlit==1.37.0
+plotly==5.23.0
+joblib==1.4.2
+ta==0.11.0
+imbalanced-learn==0.12.3
